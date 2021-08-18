@@ -3,7 +3,7 @@
 
 As a recent graduate mechatronics engineer, I am constantly seeking for oportunities to get involved in the programming and software development areas. Being self-taught and patient are some of my best attributes, as well as being always committed to my work.
 
-Currently, I have almost a year of experience (11 months) working as a software developer, both in frontend and backend, currently focused on improving my skills in the frontend side.
+Currently, I have almost a year of experience (11 months) working as a junior software developer, both in frontend and backend, currently focused on improving my skills in the frontend side.
 
 ## You can contact me at:
 
