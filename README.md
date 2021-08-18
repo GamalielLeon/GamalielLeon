@@ -1,4 +1,5 @@
-## Welcome to my profile! My name is Gamaliel and I am starting my path as a software developer.
+# Welcome to my profile! My name is Gamalie.
+## I am starting my path as a software developer.
 
 As a recent graduate mechatronics engineer, I am constantly seeking for oportunities to get involved in the programming and software development areas. Being self-taught and patient are some of my best attributes, as well as being always committed to my work.
 
