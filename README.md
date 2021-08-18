@@ -2,4 +2,4 @@
 
 ##You can find me at:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roberto_Alejandro_Farfan_Peña-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](linkedin.com/in/gamaliel-león-0b4688125)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gamaliel_Entrambasasaguas_León-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](linkedin.com/in/gamaliel-león-0b4688125)
