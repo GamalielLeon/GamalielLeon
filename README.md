@@ -1,5 +1,5 @@
 # Welcome to my profile! My name is Gamaliel
-## I am starting my path as a software developer.
+## On my way to improve myself as a software developer.
 
 As an experienced developer, I am constantly seeking for oportunities to get involved in new software development areas. Being self-taught and patient are some of my best attributes, as well as being always committed to my work.
 
